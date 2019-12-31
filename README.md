@@ -16,3 +16,4 @@
 * gpasswd -a ippotim wireshark
 * cp .xprofile .vimrc ~ 将.xprofile .vimrc复制到home目录下
 * Qt Creator格式化代码快捷键置为Alt+I
+* 如果时间不对，就timedatectl set-ntp true
