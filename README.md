@@ -7,8 +7,8 @@
 * pacman -S thunderbird wireshark-qt geany jdk8-openjdk openjdk8-src gradle
 # 安装Manjaro后要做的事 Xfce版
 * pacman -Rsn audacious ms-office-online steam-manjaro
-* pacman -S tmux gnome-system-monitor geany wireshark-gtk
-* 可选：pacman -S openjdk8-src gradle virtualbox virtualbox-guest-iso noto-fonts-emoji adobe-source-code-pro noto-fonts-cjk make
+* pacman -S tmux gnome-system-monitor geany wireshark-qt
+* 可选：pacman -S openjdk8-src gradle virtualbox virtualbox-guest-iso noto-fonts-emoji noto-fonts-cjk make
 # 安装Manjaro后要做的事 KDE版
 * pacman -Rsn ms-office-online steam-manjaro
 * pacman -S jdk-openjdk wireshark-qt
