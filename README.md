@@ -6,6 +6,7 @@
 * pacman -Rsn evolution gedit
 * pacman -S thunderbird wireshark-qt geany jdk8-openjdk openjdk8-src gradle
 # 安装Manjaro后要做的事 Xfce版
+* pacman -Rsn ttf-dejavu // 就是这个导致Java的Swing里不显示彩色Emoji
 * pacman -Rsn audacious steam-manjaro
 * pacman -S tmux gnome-system-monitor geany wireshark-qt
 * 可选：pacman -S openjdk8-src gradle virtualbox virtualbox-guest-iso noto-fonts-emoji noto-fonts-cjk make viewnior parole
